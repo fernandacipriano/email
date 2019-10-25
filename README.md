@@ -1,11 +1,11 @@
-"# Configurações para testar email"
+# Configurações para testar email
 
-git clone https://github.com/fernandacipriano/email.git
+1. No console digitar o comando: git clone https://github.com/fernandacipriano/email.git
 
-composer i
+2. No console digitar o comando: composer i
 
-Alterar os dados de acesso e envio no arquivo index.php conforme cada campo está descrito
+3. Alterar os dados de acesso e envio no arquivo index.php conforme cada campo está descrito
 
-php -S localhost:8082
+4. No console digitar o comando: php -S localhost:8082
 
-Acessar no navegador o endereço http://localhost:8082
+5. Acessar no navegador o endereço http://localhost:8082
