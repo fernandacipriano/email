@@ -1,0 +1,13 @@
+{
+    "name": "fernanda/mail",
+    "description": "Teste de email com PHPMailer",
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "Fernanda Cipriano",
+            "email": "cipriano632@gmail.com"
+        }
+    ]
+}
